@@ -1,4 +1,3 @@
-أهو جاهز **Copy/Paste** زي ما هو في `README.md`:
 # E-Commerce SQL Database Project
 
 ## Project Overview
